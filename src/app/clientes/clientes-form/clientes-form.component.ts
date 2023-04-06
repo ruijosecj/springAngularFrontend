@@ -38,7 +38,7 @@ ngOnInit(): void {
 }
 
 voltarParaListagem(){
-  this.router.navigate(['/clientes-lista'])
+  this.router.navigate(['/clientes/lista'])
 }
 
   onSubmit(){
